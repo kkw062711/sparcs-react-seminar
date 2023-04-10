@@ -1,0 +1,44 @@
+h2{
+  font-size : '30px';
+}
+
+.Inputs{
+  padding: 8px;
+}
+
+.Input {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.List{
+  margin:5px; 
+  display: flex;
+  flex-direction: row;
+}
+
+.Filter{
+  margin:5px; 
+  display: flex;
+  flex-direction: row;
+}
+
+.Todolist {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.Properties {
+  display: flex;
+  flex-direction: column;
+}
